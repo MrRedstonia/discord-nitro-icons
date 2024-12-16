@@ -56,10 +56,10 @@ Download [AI Upscaled](https://raw.githubusercontent.com/MrRedstonia/discord-nit
 Download [Original](https://raw.githubusercontent.com/MrRedstonia/discord-nitro-icons/main/SD/GamingIcon.png)<br>
 Download [AI Upscaled](https://raw.githubusercontent.com/MrRedstonia/discord-nitro-icons/main/HD/GamingIconHD.png)<br><br>
 
-### Holo Wave
-![](https://github.com/MrRedstonia/discord-nitro-icons/blob/main/SD/HoloWaveIcon.png)<br>
-Download [Original](https://raw.githubusercontent.com/MrRedstonia/discord-nitro-icons/main/SD/HoloWaveIcon.png)<br>
-Download [AI Upscaled](https://raw.githubusercontent.com/MrRedstonia/discord-nitro-icons/main/HD/HoloWaveIconHD.png)<br><br>
+### Holo Waves
+![](https://github.com/MrRedstonia/discord-nitro-icons/blob/main/SD/HoloWavesIcon.png)<br>
+Download [Original](https://raw.githubusercontent.com/MrRedstonia/discord-nitro-icons/main/SD/HoloWavesIcon.png)<br>
+Download [AI Upscaled](https://raw.githubusercontent.com/MrRedstonia/discord-nitro-icons/main/HD/HoloWavesIconHD.png)<br><br>
 
 ### In Rainbows
 ![](https://github.com/MrRedstonia/discord-nitro-icons/blob/main/SD/InRainbowsIcon.png)<br>
