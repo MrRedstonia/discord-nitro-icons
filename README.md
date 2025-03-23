@@ -1,7 +1,7 @@
 # Discord Nitro Icons
 #### All the Discord Nitro exclusive mobile app icons, and even in HD!<br><br>
 
-### ⚠️ HD versions are upscaled by AI. Visual artifacts May occur.<br><br>
+### ⚠️ HD versions are upscaled by AI. Visual artifacts may occur.<br><br>
 
 ### Blurple Twilight
 ![](https://github.com/MrRedstonia/discord-nitro-icons/blob/main/SD/BlurpleTwilightIcon.png)<br>
